@@ -1,0 +1,58 @@
+{
+    "name": "Active Collab",
+    "description": "Looking for state-of-the-art project management tool? Look no further, ActiveCollab is your next logical step towards better project workflow. Get it now!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/303-active-collab.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "invoices",
+        "no api definition",
+        "projects"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/active-collab\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Active Collab",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/303-active-collab.jpg",
+            "humanURL": "http:\/\/www.activecollab.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "support@activecollab.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@activecollab.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/activecollab"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/activecollab.com\/pricing"
+        },
+        {
+            "type": "Road Map",
+            "url": "https:\/\/activecollab.com\/roadmap"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/activecollab"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.activecollab.com"
+        }
+    ]
+}
